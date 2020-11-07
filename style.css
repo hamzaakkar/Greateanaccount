@@ -1,0 +1,23 @@
+body{background-color: cornflowerblue;}
+*{margin: 0; padding: 0;}
+
+#create {margin-top:120px; margin-left: 320px; width: 700px;height: 350px; text-align: center; border: 0px solid ;border-right-color: gainsboro;
+    background-color: white;
+    
+}
+#login a{text-decoration: none;}
+#login{position: fixed; top: 0px; bottom: 0; left: 0; right: 0; margin: auto;}
+
+a:hover{text-decoration: none;}
+header{ margin: 15px 0px ;}
+header p{margin-top:20px;}
+
+main input{border: 0px;}
+main input[type=text]{width: 550px;height: 30px;border: 0.5px solid gray;margin-bottom: 5px;}
+
+[type=password]{width: 550px;height: 30px;border: 0.5px solid gray; margin-bottom: 5px}
+main input[type=email]{width: 550px;height: 30px;border: 0.5px solid gray; margin-bottom: 5px;}
+main input[type=submit]{background-color: dodgerblue; color: white;width: 550px;height: 30px; border: 0px; margin: 8px;margin-bottom: 25px;}
+main input[type=checkbox]{margin: 8px;}
+
+form{margin-bottom: 40px;}
